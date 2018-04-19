@@ -6,3 +6,5 @@ tags:
   - JavaScript library
   - chart
 resources: 4
+
+parent_template: git@github.com:learn-co-curriculum/js-spotify-api-ajax.git

@@ -24,3 +24,4 @@ The final step of this lab will be to run your server with `ruby -run -e httpd .
 * [Lab Review](https://www.youtube.com/watch?v=D4iIg_gJ7J8)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-spotify-api-ajax'>Spotify API Lab </a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>KWK-T2 Visualizing A Song's Popularity Using Spotify</p>
